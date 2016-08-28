@@ -1,0 +1,15 @@
+Package: com.JdmKid00.Glyph9
+Name: Glyph 9
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A ios 9 theme fo Anemone (only tested on ios 9.3.3 on iphone 6s)
+Homepage: http://www.instagram.com/jdm.kid/
+Maintainer: JdmKid00
+Author: JdmKid00 < erickc889@gmail.com >
+Section: Theme - MyRepoSpace.com
+Conflicts: 
+Depends: 
+
+
+
+

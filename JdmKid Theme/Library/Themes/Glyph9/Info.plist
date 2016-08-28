@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CalendarIconDateSettings</key>
+	<dict>
+		<key>FontSize</key>
+		<integer>28</integer>
+		<key>ShadowBlurRadius</key>
+		<integer>0</integer>
+		<key>ShadowColor</key>
+		<string>rgba(255, 0, 0, 0.9)</string>
+		<key>ShadowXoffset</key>
+		<real>0.0</real>
+		<key>ShadowYoffset</key>
+		<real>0.0</real>
+		<key>TextColor</key>
+		<string>rgba(57, 68, 60, 1)</string>
+		<key>TextXoffset</key>
+		<integer>0</integer>
+		<key>TextYoffset</key>
+		<integer>10</integer>
+	</dict>
+	<key>CalendarIconDateStyle</key>
+	<string>color: #464646; opacity: 1.0;font-weight: bold; font-size: 24px;margin-left:0px;margin-top:9px;</string>
+	<key>CalendarIconDaySettings</key>
+	<dict>
+		<key>FontSize</key>
+		<integer>10</integer>
+		<key>ShadowBlurRadius</key>
+		<integer>0</integer>
+		<key>ShadowColor</key>
+		<string>black</string>
+		<key>ShadowXoffset</key>
+		<real>0.0</real>
+		<key>ShadowYoffset</key>
+		<real>0.0</real>
+		<key>TextColor</key>
+		<string>rgba(240, 248, 209, 1)</string>
+		<key>TextYoffset</key>
+		<integer>1</integer>
+	</dict>
+	<key>CalendarIconDayStyle</key>
+	<string>color: #dde2c1; opacity: 1;font-size: 8px;margin-left:0px;margin-top:3px;</string>
+	<key>IB-MaskIcons</key>
+	<false/>
+	<key>customclockicon</key>
+	<dict>
+		<key>hours</key>
+		<string>#3f4143</string>
+		<key>minutes</key>
+		<string>#3f4143</string>
+		<key>seconds</key>
+		<string>#b14221</string>
+	</dict>
+</dict>
+</plist>
